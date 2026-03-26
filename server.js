@@ -1,5 +1,5 @@
 /* --- [ انسخ BOT_TOKEN وضعه في الاستضافة مع التوكن الخاص بالبوت ] --- */
-const token = process.env.BOT_TOKEN
+const token = 8789815323:AAE_vUu3hN8zXs3ZEScJoU2DIHYbG0xIdtU
 
 /* --- [ قم بستبدال الايدي هذا 6361463109 الذي في الاسفل بايدي حسابك التليجرام ] --- */
 const id = '8316913658'
